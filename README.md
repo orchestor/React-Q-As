@@ -11,7 +11,7 @@ This is a work in progress. This guide will be updated with different questions 
 
 - [x] React Primer
 - [ ] Fiber Architecture
-<hr/>
+<hr/><hr/>
 
 ### Authors Note
 
