@@ -23,12 +23,12 @@ This primer is dedicated to all the React Developers. The community is super awe
 The React documentation is a good place to start learning React. You can learn the important concepts in this primer and read further about them in the official documentation. Here is the [link](https://facebook.github.io/react/)
 
 #### Awesome resources
-* [Awesome React](https://github.com/nitin42/awesome-react)
-* [Awesome React Components](https://github.com/nitin42/awesome-react-components)
-* [Redux](https://github.com/nitin42/redux)
-* [React-Redux](https://github.com/nitin42/react-redux-links)
-* [React Ecosystem](https://github.com/nitin42/redux-ecosystem-links)
-* [Awesome Redux](https://github.com/nitin42/awesome-redux)
+* [Awesome React](https://github.com/enaqx/awesome-react)
+* [Awesome React Components](https://github.com/brillout/awesome-react-components)
+* [Redux](https://github.com/reactjs/redux)
+* [React-Redux](https://github.com/markerikson/react-redux-links)
+* [React Ecosystem](https://github.com/markerikson/redux-ecosystem-links)
+* [Awesome Redux](https://github.com/xgrommx/awesome-redux)
 
 <hr/>
 
