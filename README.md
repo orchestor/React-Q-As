@@ -2,7 +2,7 @@
 
 ![](http://blog-assets.risingstack.com/2016/Jan/react_best_practices-1453211146748.png)
 
-A primer which contains important O&As which you may or may not need to know but you may find it useful while learning react. Inspired by the teachings of [Tyler Mcginnis](), [Dan Abramov]() and [Wes Bos]() these questions may help you while applying for [React]() jobs.
+> A primer which contains important O&As which you may or may not need to know but you may find it useful while learning react. Inspired by the teachings of [Tyler Mcginnis](), [Dan Abramov]() and [Wes Bos]() these questions may help you while applying for [React]() jobs.
 
 
 ### Status
