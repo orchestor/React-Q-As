@@ -2,7 +2,7 @@
 
 ![](http://blog-assets.risingstack.com/2016/Jan/react_best_practices-1453211146748.png)
 
-> A primer which contains important O&As which you may or may not need to know but you may find it useful while learning react. Inspired by the teachings of [Tyler Mcginnis](https://github.com/tylermcginnis), [Dan Abramov](https://github.com/gaearon) and [Wes Bos](https://github.com/wesbos) these questions may help you while applying for [React](https://facebook.github.io/react/) jobs.
+> A primer which contains important O&As which you may or may not need to know but you may find it useful while learning React. Inspired by the teachings of [Tyler Mcginnis](https://github.com/tylermcginnis), [Dan Abramov](https://github.com/gaearon) and [Wes Bos](https://github.com/wesbos) these questions may help you while applying for [React](https://facebook.github.io/react/) jobs.
 
 
 ### Status
@@ -20,7 +20,7 @@ This primer is dedicated to all the React Developers. The community is super awe
 
 ### Preface
 #### React Documentation
-The react documentation is a good place to start learning react. You can learn the important concepts in this primer and read further about them in the official documentation. Here is the [link](https://facebook.github.io/react/)
+The React documentation is a good place to start learning React. You can learn the important concepts in this primer and read further about them in the official documentation. Here is the [link](https://facebook.github.io/react/)
 
 #### Awesome resources
 * [Awesome React](https://github.com/nitin42/awesome-react)
