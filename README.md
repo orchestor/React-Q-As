@@ -1,4 +1,4 @@
-## React Primer 
+## React-Q-As 
 
 ![](http://blog-assets.risingstack.com/2016/Jan/react_best_practices-1453211146748.png)
 
